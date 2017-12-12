@@ -1,0 +1,7 @@
+C:\Users\Philipp\Desktop\duplicates_component\fold\obj\Debug64\findDuplicates.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\duplicates_component\fold\obj\Debug64\findDuplicates.Properties.Resources.resources
+C:\Users\Philipp\Desktop\duplicates_component\fold\obj\Debug64\findDuplicates.csproj.GenerateResource.Cache
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\findDuplicates.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\findDuplicates.pdb
+C:\Users\Philipp\Desktop\duplicates_component\fold\obj\Debug64\findDuplicates.dll
+C:\Users\Philipp\Desktop\duplicates_component\fold\obj\Debug64\findDuplicates.pdb

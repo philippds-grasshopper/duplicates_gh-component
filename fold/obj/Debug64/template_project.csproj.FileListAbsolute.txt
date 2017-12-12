@@ -1,0 +1,6 @@
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_project.csproj.GenerateResource.Cache
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\template_component.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\template_component.pdb
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.pdb
